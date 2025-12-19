@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Expense Tracker",
+  "description": "A sophisticated personal finance manager with automated category tracking, real-time visualization, and AI-powered spending insights using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
